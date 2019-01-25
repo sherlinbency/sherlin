@@ -1,0 +1,7 @@
+int c,i,sum = 0;
+printf("Enter a positive integer: ");
+scanf("%d",&c);
+ for(i=1;i <= n;++i)
+ printf("Sum = %d",sum);
+ return 0;
+
